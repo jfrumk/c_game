@@ -1,3 +1,6 @@
 C:\Users\Jafru\source\repos\C_Game\C_Game\x64\Debug\C_Game.vcxproj.MdMergeInputs.cache
 C:\Users\Jafru\source\repos\C_Game\C_Game\x64\Debug\C_Game.vcxproj.cppwinrt_plat.cache
 C:\Users\Jafru\source\repos\C_Game\C_Game\x64\Debug\C_Game.vcxproj.cppwinrt_comp.cache
+C:\Users\Jafru\source\repos\c_game_things\C_Game\x64\Debug\C_Game.vcxproj.MdMergeInputs.cache
+C:\Users\Jafru\source\repos\c_game_things\C_Game\x64\Debug\C_Game.vcxproj.cppwinrt_plat.cache
+C:\Users\Jafru\source\repos\c_game_things\C_Game\x64\Debug\C_Game.vcxproj.cppwinrt_comp.cache
